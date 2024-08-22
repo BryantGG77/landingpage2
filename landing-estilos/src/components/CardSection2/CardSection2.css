@@ -1,6 +1,6 @@
-.CardSection1 {
-    width: 303.75px;
-    height: 332.45px;
+.cardSection2 {
+    width: 30.782%;
+    height: 15.8203125%;
     font-family: 'Urbanist', sans-serif;
     padding: 40px;
     background-color: white;
@@ -10,13 +10,13 @@
     box-shadow: 0px 0px 64px -24px rgba(0, 0, 0, 0.16);
 }
 
-.cardSection1-h3 {
+.cardSection2-h3 {
     margin-top: 17px;
     font-size: 1.25rem;
     font-weight: 600;
 }
 
-.cardSection1-p {
+.cardSection2-p {
     line-height: 28.9px;
     margin-top: 14px;
     font-size: 1.063rem;
@@ -24,7 +24,7 @@
     color: #60697B;
 }
 
-.cardSection1-a {
+.cardSection2-a {
     display: flex;
     text-decoration: none;
     margin-top: 14px;
@@ -33,6 +33,6 @@
     text-decoration: none;
 }
 
-.cardSection1-i {
+.cardSection2-i {
     font-size: 20px;
 }

@@ -1,0 +1,99 @@
+/*! ESTILOS SECTION 3 */
+
+.app-main-section3 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+    padding: 0 315px 140px 315px;
+}
+
+.section3-title-p {
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #AAB0BC;
+    padding-bottom: 17px;
+}
+
+.container-section3-title-h1 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.section3-title-h1 {
+    width: 50%;
+    text-align: center;
+    font-size: 2.625rem;
+    font-weight: 600;
+    color: #343F52;
+}
+
+.section3-title-img {
+    position: relative;
+    left: 590px;
+    top: 95px;
+}
+
+.section3-cards {
+    display: flex;
+    gap: 25px;
+}
+
+
+.section3-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.container-section3-img {
+    width: 56.481%;
+    height: 37.962%;
+}
+
+.container-section3-info {
+    width: 43.519%;
+    height: 37.962%;
+}
+
+.container-section3-info {
+    padding: 20px 0 20px 0;
+}
+
+.section3-info-h3 {
+    font-size: 1.688rem;
+    font-weight: 600;
+    color: #343F52;
+}
+
+.section3-info-p {
+    font-size: 1.063rem;
+    line-height: 28.9px;
+    font-weight: 400;
+    color: #60697B;
+    padding-top: 22px;
+    padding-bottom: 28.89px;
+}
+
+.section3-info-list {
+    line-height: 28.9px;
+    color: #60697B;
+    padding-bottom: 35px;
+}
+
+.section3-info-list-p {
+    display: flex;
+    align-items: center;
+}
+
+.section3-info-list-img {
+    padding-right: 10px;
+}
+
+.section3-info-img {
+
+    border-radius: 8px;
+}

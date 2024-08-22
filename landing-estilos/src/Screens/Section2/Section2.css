@@ -1,0 +1,9 @@
+/*! ESTILOS SECTION 2 */
+
+.app-main-section2 {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-top: 25px;
+    padding: 0 315px 141px 315px;
+}
