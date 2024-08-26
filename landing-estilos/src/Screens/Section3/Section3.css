@@ -33,7 +33,7 @@
 .section3-title-img {
     position: relative;
     left: 590px;
-    top: 95px;
+    top: 115px;
 }
 
 .section3-cards {
@@ -51,16 +51,12 @@
 
 .container-section3-img {
     width: 56.481%;
-    height: 37.962%;
+
 }
 
 .container-section3-info {
     width: 43.519%;
-    height: 37.962%;
-}
-
-.container-section3-info {
-    padding: 20px 0 20px 0;
+    padding: 0 0 0 70px;
 }
 
 .section3-info-h3 {
@@ -75,18 +71,20 @@
     font-weight: 400;
     color: #60697B;
     padding-top: 22px;
-    padding-bottom: 28.89px;
+    padding-bottom: 25px;
+    margin: 0;
 }
 
 .section3-info-list {
     line-height: 28.9px;
     color: #60697B;
-    padding-bottom: 35px;
+    padding-bottom: 20px;
 }
 
 .section3-info-list-p {
     display: flex;
     align-items: center;
+    margin-bottom: 15px;
 }
 
 .section3-info-list-img {
@@ -94,6 +92,6 @@
 }
 
 .section3-info-img {
-
+    width: 100%;
     border-radius: 8px;
 }

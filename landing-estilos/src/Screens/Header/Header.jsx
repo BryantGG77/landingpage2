@@ -4,7 +4,7 @@ export default function Header() {
     return (
         <section className='app'>
             <header className="app-header">
-                <nav className='nav'>
+                <nav className='app-header-nav'>
                     <ul className='nav-list'>
                         <li className='nav-item'><a className='nav-item-a' href="#">Demos</a></li>
                         <li className='nav-item'><a className='nav-item-a' href="#">Pages</a></li>

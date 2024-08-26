@@ -3,6 +3,7 @@ import Header from './Screens/Header/Header'
 import Section2 from './Screens/Section2/Section2'
 import Section3 from './Screens/Section3/Section3'
 import Section4 from './Screens/Section4/Section4'
+import Section5 from './Screens/Section5/Section5'
 
 export default function App() {
 
@@ -15,6 +16,7 @@ export default function App() {
       <Section2 />
       <Section3 />
       <Section4 />
+      <Section5 />
 
     </main>
 
