@@ -37,12 +37,10 @@
 .containerCarousel .carousel-indicators {
     position: absolute;
     bottom: -50px;
-    /* Puedes ajustar la posición vertical */
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 10px;
-    /* Espacio entre los indicadores */
 }
 
 .containerCarousel .carousel-indicators button {

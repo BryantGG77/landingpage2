@@ -9,20 +9,20 @@
 }
 
 .section3-title-p {
+    text-transform: uppercase;
     text-align: center;
     font-size: 1rem;
     font-weight: 600;
     color: #AAB0BC;
-    padding-bottom: 17px;
 }
 
-.container-section3-title-h1 {
+.container-section3-title-h2 {
     width: 100%;
     display: flex;
     justify-content: center;
 }
 
-.section3-title-h1 {
+.section3-title-h2 {
     width: 50%;
     text-align: center;
     font-size: 2.625rem;
@@ -33,7 +33,7 @@
 .section3-title-img {
     position: relative;
     left: 590px;
-    top: 115px;
+    top: 100px;
 }
 
 .section3-cards {

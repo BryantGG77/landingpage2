@@ -8,17 +8,17 @@ export default function Section3() {
 
     const infoComponent = (
         <>
-            <div className='container-section3-img'>
+            <figure className='container-section3-img'>
                 <img className='section3-info-img' src="./src/assets/se5.png" alt="" />
-            </div>
+            </figure>
 
             <div className='container-section3-info'>
                 <h3 className='section3-info-h3'>Collect Ideas</h3>
                 <p className='section3-info-p'>Etiam porta sem malesuada magna mollis euismod. Donec ullamcorper nulla non metus auctor fringilla. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Nullam quis risus eget urna.</p>
                 <div className='section3-info-list'>
-                    <p className='section3-info-list-p'><img className='section3-info-list-img' src="./src/assets/Item.png" alt="" />Aenean eu leo quam. Pellentesque ornare.</p>
-                    <p className='section3-info-list-p'><img className='section3-info-list-img' src="./src/assets/Item.png" alt="" />Nullam quis risus eget urna mollis ornare.</p>
-                    <p className='section3-info-list-p'><img className='section3-info-list-img' src="./src/assets/Item.png" alt="" />Donec id elit non mi porta gravida at eget.</p>
+                    <p className='section3-info-list-p'><img className='section3-info-list-img' src="./src/assets/Item.png" alt="Flecha visto bueno" />Aenean eu leo quam. Pellentesque ornare.</p>
+                    <p className='section3-info-list-p'><img className='section3-info-list-img' src="./src/assets/Item.png" alt="Flecha visto bueno" />Nullam quis risus eget urna mollis ornare.</p>
+                    <p className='section3-info-list-p'><img className='section3-info-list-img' src="./src/assets/Item.png" alt="Flecha visto bueno" />Donec id elit non mi porta gravida at eget.</p>
                 </div>
                 <ButtonLearnMore bgcolor='#E668B3' texto='Learn More' />
             </div>
@@ -28,9 +28,9 @@ export default function Section3() {
 
     const infoComponent2 = (
         <>
-            <div className='container-section3-img'>
+            <figure className='container-section3-img'>
                 <img className='section3-info-img' src="./src/assets/se5.png" alt="" />
-            </div>
+            </figure>
 
             <div className='container-section3-info'>
                 <h3 className='section3-info-h3'>Data Analysis</h3>
@@ -42,9 +42,9 @@ export default function Section3() {
     );
     const infoComponent3 = (
         <>
-            <div className='container-section3-img'>
+            <figure className='container-section3-img'>
                 <img className='section3-info-img' src="./src/assets/se5.png" alt="" />
-            </div>
+            </figure>
 
             <div className='container-section3-info'>
                 <h3 className='section3-info-h3'>Finalize Product</h3>
@@ -60,9 +60,9 @@ export default function Section3() {
         <section className='app-main-section3'>
             <section className='section3-title'>
                 <img className='section3-title-img' src="/src/assets/image.png" alt="resaltando easier" />
-                <p className="section3-title-p">WHY CHOOSE SANDBOX?</p>
-                <div className='container-section3-title-h1'>
-                    <h2 className="section3-title-h1">Here are a few reasons why our customers choose Sandbox.</h2>
+                <p className="section3-title-p">wHY CHOOSE SANDBOX?</p>
+                <div className='container-section3-title-h2'>
+                    <h2 className="section3-title-h2">Here are a few reasons why our customers choose Sandbox.</h2>
                 </div>
             </section>
 

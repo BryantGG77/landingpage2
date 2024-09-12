@@ -3,7 +3,7 @@ import './CarouselSection5.css';
 
 export default function CarouselSection5() {
     return (
-        <Carousel controls={false} className='containerCarousel'>
+        <Carousel interval={6000} controls={false} className='containerCarousel'>
             <Carousel.Item >
                 <div className='item'>
                     <p className='item-paragraph'>“Vivamus sagittis lacus vel augue laoreet rutrum
